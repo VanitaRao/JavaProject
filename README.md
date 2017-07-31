@@ -1,1 +1,1 @@
-# Hello Guys, This is sample JavaProject
+# Hello All, This is sample JavaProject
